@@ -3,4 +3,4 @@ Utilizes Machine Learning and linear modeling to predict Chennai's future temper
 If anyone has any suggestions in terms of scalability, or upgrades that can be made to my code, let me know!
 
 Thank you,
-Kevin
+Kevin.I
